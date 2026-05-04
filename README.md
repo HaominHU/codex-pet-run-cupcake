@@ -20,7 +20,7 @@
 
 ## What Is This?
 
-This repository is a playful pet-generation run made with Codex. It is not a public store package or production asset pipeline. It is simply a place to share Cupcake and the project structure behind the generated sprite pet.
+This repository is a playful pet-generation run made with Codex. It is simply a place to share Cupcake and the project structure behind the generated sprite pet.
 
 If you like Cupcake, feel free to fork this repo, keep the cat, remix the prompts, or ask your own Codex session to generate a new pet for you.
 
@@ -71,6 +71,14 @@ This is here for fun sharing. You can:
 
 No formal reproduction steps are included because the point is exploration, remixing, and giving Codex a cute creative target.
 
+```text
+# Verified replication steps:
+$skill-installer hatch-pet
+
+# Clone the project to the local
+$hatch-pet import /your/local/path/to/this/repo
+```
+
 ---
 
 ## Make Your Own Pet
@@ -78,7 +86,7 @@ No formal reproduction steps are included because the point is exploration, remi
 Want a pet like Cupcake? Open Codex Desktop and ask Codex to help you hatch one.
 
 1. Open Codex Desktop.
-2. Make sure the built-in skill installer is available. In current Codex, `skill-installer` is a system skill, so you usually do not need to install it separately.
+2. Make sure the built-in skill installer is available. In the current Codex, `skill-installer` is a system skill, so you usually do not need to install it separately.
 3. Install the curated Hatch Pet skill:
 
 ```text
