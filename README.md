@@ -111,14 +111,11 @@ This project is part of my AI-assisted learning methodology:
 
 ### More in This Series
 
-Copy this block into the other project READMEs when updating the series list:
-
-```markdown
 1. **[Private] Real-world local shop website quick setup** - Prompt Engineering ✅
 2. **[Brainstormed Claude Skills Archive](https://github.com/HaominHU/claude-code-skills-archive)** - Prompt Engineering + Claude Skills Creation ✅
 3. **[Caregiver Agent Prototype](https://github.com/HaominHU/mvp-cg-agent)** - Agent Architecture & Orchestration ✅
-4. **[Codex Pet Runs](https://github.com/HaominHU/pet-runs)** - Codex Creative Asset Generation ✅
-```
+4. **[This Project] Codex Pet Runs** - Codex Creative Asset Generation ✅
+
 
 ---
 
