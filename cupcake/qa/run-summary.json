@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "run_dir": "/Users/leonhu/Documents/New project/pet-runs/cupcake",
+  "spritesheet": "/Users/leonhu/Documents/New project/pet-runs/cupcake/final/spritesheet.webp",
+  "validation": "/Users/leonhu/Documents/New project/pet-runs/cupcake/final/validation.json",
+  "contact_sheet": "/Users/leonhu/Documents/New project/pet-runs/cupcake/qa/contact-sheet.png",
+  "review": "/Users/leonhu/Documents/New project/pet-runs/cupcake/qa/review.json",
+  "videos": null,
+  "video_note": "Preview videos were skipped because ffmpeg is not installed in this environment.",
+  "package": "/Users/leonhu/.codex/pets/cupcake"
+}
