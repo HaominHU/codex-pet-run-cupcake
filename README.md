@@ -123,6 +123,7 @@ This project is part of my AI-assisted learning methodology:
 2. **[Brainstormed Claude Skills Archive](https://github.com/HaominHU/claude-code-skills-archive)** - Prompt Engineering + Claude Skills Creation ✅
 3. **[Caregiver Agent Prototype](https://github.com/HaominHU/mvp-cg-agent)** - Agent Architecture & Orchestration ✅
 4. **[This Project] Codex Pet Runs** - Codex Creative Asset Generation ✅
+5. **[Private] Restaurant review knowledgebase Wiki** - Agent KB & Wiki ✅
 
 
 ---
